@@ -10,8 +10,11 @@ SOURCECODE: ch2.py
 
 WHAT IT DOES? 
       --Give a json-formatted output after performing a metadata query on an AWS EC2 instance.
+      
       --Retrieve the value of a particular data key.
+      
       --It makes use of the http://169.254.169.254/latest/meta-data link-local address. 
+      
       --Instance metatada is provided at this link, but only when you visit it from a running instance.
       
 PREREQUISITES: 
